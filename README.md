@@ -1,2 +1,3 @@
-# primer-repo
-Este repo pertenece al tutorial de youtube
+# REPOSITORIO DEL TUTORIAL
+
+En este repositorio subiremos la información relacionada a Git con Github
